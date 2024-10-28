@@ -1,10 +1,5 @@
 local quotes = {
     {
-        "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
-        "",
-        "- Brian Kernighan",
-    },
-    {
         "If you don't fail at least 90% of the time, you're not aiming high enough.",
         "",
         "- Alan Kay",
